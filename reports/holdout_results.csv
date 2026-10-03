@@ -1,0 +1,4 @@
+model,MAE,MAPE_%
+Baseline ($/mile by equipment),229.1,10.49
+First LightGBM (l2),150.1,6.43
+First LightGBM (huber),148.8,6.36
